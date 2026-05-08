@@ -1,0 +1,16 @@
+{
+  "name": "Sabbatjahr Countdown",
+  "short_name": "Sabbatjahr",
+  "description": "Countdown bis zum Sabbatjahr am 26. Juni 2026",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAFAF8",
+  "theme_color": "#FAFAF8",
+  "lang": "de",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
